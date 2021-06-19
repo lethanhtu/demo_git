@@ -1,3 +1,3 @@
 <?php
 
-echo "api-call-success";
+echo "api-call-success-othet-api-call";
